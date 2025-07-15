@@ -1,0 +1,1263 @@
+﻿/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            
+
+        }
+    }
+}
+*/
+
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            string input1 = Console.ReadLine();
+            string input2 = Console.ReadLine();
+            string result1 = "", result2 = "";
+            int test = 0;
+            for(int i = 0; i < input1.Length && result1.Length < 11; i++)
+            {
+                if (input1[i] == '.')
+                {
+                    result1 += input1[i];
+                }
+                else if (input1[i] == '1' ||
+                    input1[i] == '2' ||
+                    input1[i] == '3' ||
+                    input1[i] == '4' ||
+                    input1[i] == '5' ||
+                    input1[i] == '6' ||
+                    input1[i] == '7' ||
+                    input1[i] == '8' ||
+                    input1[i] == '9' ||
+                    input1[i] == '0'
+                    )
+                {
+                    result1 += input1[i];
+                }
+            }
+            for (int i = 0; i < input2.Length && result2.Length < 11; i++)
+            {
+                if (input2[i] == '.')
+                {
+                    result1 += input2[i];
+                }
+                else if (input2[i] == '1' ||
+                    input2[i] == '2' ||
+                    input2[i] == '3' ||
+                    input2[i] == '4' ||
+                    input2[i] == '5' ||
+                    input2[i] == '6' ||
+                    input2[i] == '7' ||
+                    input2[i] == '8' ||
+                    input2[i] == '9'
+                    )
+                {
+                    result2 += input2[i];
+                }
+            }
+
+            //double money = double.Parse(input1) + double.Parse(input2);
+            Console.WriteLine($"cpf {result1}\n{result2}");
+        }
+    }
+}
+
+
+
+
+/*
+using System.Globalization;
+
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            string[] input = Console.ReadLine().Split();
+            double n1 = double.Parse(input[0]);
+            double n2 = double.Parse(input[1]);
+            double corrida = n2 * n1;
+            double corrida10 = corrida * 0.1;
+            if (corrida10 - (int)(corrida10) > 0)
+                corrida10 += 1;
+
+            double corrida20 = corrida * 0.2;
+            if (corrida20 - (int)(corrida20) > 0)
+                corrida20 += 1;
+
+            double corrida30 = corrida * 0.3;
+            if (corrida30 - (int)(corrida30) > 0)
+                corrida30 += 1;
+            double corrida40 = corrida * 0.4;
+            if (corrida40 - (int)(corrida40) > 0)
+                corrida40 += 1;
+            double corrida50 = corrida * 0.5;
+            if (corrida50 - (int)(corrida50) > 0)
+                corrida50 += 1;
+            double corrida60 = corrida * 0.6;
+            if (corrida60 - (int)(corrida60) > 0)
+                corrida60 += 1;
+            double corrida70 = corrida * 0.7;
+            if (corrida70 - (int)(corrida70) > 0)
+                corrida70 += 1;
+            double corrida80 = corrida * 0.8;
+            if (corrida80 - (int)(corrida80) > 0)
+                corrida80 += 1;
+            double corrida90 = corrida * 0.9;
+            if (corrida90 - (int)(corrida90) > 0)
+                corrida90 += 1;
+
+            Console.WriteLine((int)corrida10
+                + " " +
+                (int)corrida20
+                + " " +
+                (int)corrida30
+                + " " +
+                (int)corrida40
+                + " " +
+                (int)corrida50
+                + " " +
+                (int)corrida60
+                + " " +
+                (int)corrida70
+                + " " +
+                (int)corrida80
+                + " " +
+                (int)corrida90
+                );
+
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            int N = int.Parse(Console.ReadLine());
+            for(int i = 0; i < N; i++)
+            {
+                string[] test = Console.ReadLine().Split();
+                string N1= test[0];
+                string N2= test[1];
+                string result = "";
+                for (int count = 0; count < test[0].Length || count < test[1].Length; count++)
+                {
+                    if(count < test[0].Length)
+                    result += N1[count];
+                    if(count < test[1].Length)
+                    result += N2[count];
+                }
+                Console.WriteLine(result);
+            }
+        }
+    }
+}
+*/
+
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            string[] input = Console.ReadLine().Split();
+            int result1 = int.Parse(input[0]) * int.Parse(input[1]);
+            int result2 = int.Parse(input[2]) * int.Parse(input[3]);
+            if(result1 == result2)
+            {
+                Console.WriteLine("0");
+            } else if(result1 > result2)
+            {
+                Console.WriteLine("-1");
+            }
+            else
+            {
+                Console.WriteLine("1");
+            }
+
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            string[] input = Console.ReadLine().Split();
+            int num1 = int.Parse(input[0]);
+            int num2 = int.Parse(input[1]);
+            int num3 = num2 - num1;
+            int test = num3;
+            int count = 1;
+            while (test < num2)
+            {
+                count++;
+                test += num3;
+            }
+            Console.WriteLine(count);
+        }
+    }
+}
+*/
+
+
+
+
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod
+            int N = int.Parse(Console.ReadLine());
+            string[] input = Console.ReadLine().Split();
+            int menor = 0, numenor = int.MaxValue;
+            for (int i = 0; i < N; i++)
+            {
+                if (int.Parse(input[i]) < numenor)
+                {
+                    menor = i;
+                    numenor = int.Parse(input[i]);
+                }
+            }
+            Console.WriteLine(menor+1);
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1134
+            int al = 0, gas = 0, die = 0;
+            int num = 0;
+            while(num != 4)
+            {
+                num = int.Parse(Console.ReadLine());
+                if (num == 1)
+                {
+                    al++;
+                } else if (num == 2)
+                {
+                    gas++;
+                } else if(num == 3)
+                {
+                    die++;
+                }
+
+            }
+            Console.WriteLine($"MUITO OBRIGADO\nAlcool: {al}\nGasolina: {gas}\nDiesel: {die}");
+
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//FINAL
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1115
+            ///
+            string[] input = Console.ReadLine().Split();
+            int num = int.Parse(input[0]);
+            int num2 = int.Parse(input[1]);
+            while (num != 0 && num2 != 0)
+            {
+                if(num > 0)
+                {
+                    if(num2 > 0)
+                    {
+                        Console.WriteLine("primeiro");
+                    } else
+                    {
+                        Console.WriteLine("quarto");
+                    }
+                }
+                else
+                {
+                    if(num2 > 0)
+                    {
+                        Console.WriteLine("segundo");
+                    } else
+                    {
+                        Console.WriteLine("terceiro");
+                    }
+                }
+                input = Console.ReadLine().Split();
+                num = int.Parse(input[0]);
+                num2 = int.Parse(input[1]);
+            }
+
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//SEGUNDA FASE
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1958 Notação Científica
+            string input = Console.ReadLine();
+            string output = "";
+            int ponto = 0;
+
+            for(int k  = 0; k < input.Length; k++)
+            {
+                if (input[k] == '.')
+                {
+                    ponto = k;
+                }
+            }
+
+            int i = 1;
+            do
+            {
+                output += input[i];
+                i++;
+            } while (i < ponto);
+            
+            if(double.Parse(output) != 0.0)
+            {
+                output = "";
+                if (input[0] == '-')
+                {
+                    output += "-" + input[1] + ".";
+                    for (int j = 2; j < 5; j++)
+                    {
+                        Console.Write(input[j]);
+                    }
+                    if (ponto > 9) { Console.WriteLine("E+" + ponto); }
+                    else
+                        Console.WriteLine("E+0" + ponto);
+                }
+            }
+
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//SEGUNDA FASE
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod1929 Triângulo
+            string[] input = Console.ReadLine().Split();
+            int A = int.Parse(input[0]);
+            int B = int.Parse(input[1]);
+            int C = int.Parse(input[2]);
+            int D = int.Parse(input[3]);
+            if (A < B + C && A > Math.Abs(B - C))
+            {
+                Console.WriteLine("S");
+            } else if (A < B + D && A > Math.Abs(B - D))
+            {
+                Console.WriteLine("S");
+            }
+            else if(B < D + C && B > Math.Abs(D - C))
+            {
+                Console.WriteLine("S");
+            }
+            else if (A < C + D && A > Math.Abs(C - D))
+            {
+                Console.WriteLine("S");
+            }
+            else { Console.WriteLine("N"); }
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//SEGUNDA FASE
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod1796 Economia Brasileira
+            int N = int.Parse(Console.ReadLine());
+            string[] input = Console.ReadLine().Split();
+            int positivo = 0;
+            for (int i = 0; i < N; i++) 
+            {
+                if (input[i] == "0")
+                {
+                    positivo++;
+                }
+            }
+            if (positivo > N / 2) 
+            {
+                Console.WriteLine("Y");
+            }
+            else
+            {
+                Console.WriteLine("N");
+            }
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//SEGUNDA FASE
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1113 Crescente e Decrescente
+            int X = 0, Y = 0;
+            do
+            {
+                string[] input = Console.ReadLine().Split();
+                X = int.Parse(input[0]);
+                Y = int.Parse(input[1]);
+                if(X < Y)
+                {
+                    Console.WriteLine("Crescente");
+                } else if (X > Y)
+                {
+                    Console.WriteLine("Decrescente");
+                } else
+                {
+                    break;
+                }
+
+
+
+            }while (X != Y);
+
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//SEGUNDA FASE
+         ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod1072 Intervalo 2
+            int N = int.Parse(Console.ReadLine());
+            int dentro = 0, fora = 0;
+            for (int i = 0; i < N; i++) { 
+                int input = int.Parse(Console.ReadLine());
+                if (input >= 10 && input <= 20) {
+                    dentro++;
+                }
+                else
+                {
+                    fora++;
+                }
+            }
+            Console.WriteLine(dentro + " in");
+            Console.WriteLine(fora + " out");
+        }
+    }
+}
+*/
+
+
+/*
+///////////////////////////BEECROWD//////////////////////////////////////
+///cod
+string[] input = Console.ReadLine().Split();
+int C = int.Parse(input[0]);
+int N = int.Parse(input[1]);
+string cifra = Console.ReadLine();
+string cifrado = Console.ReadLine();
+for (int i = 0; i < N; i++)
+{
+    string teste = "";
+    teste = Console.ReadLine();
+
+    for (int j = 0; j < teste.Length; j++)
+    {
+        bool cod = false;
+        bool cif = false;
+        bool eMaiuscula = false;
+        int ind = 0;
+        eMaiuscula = Char.IsUpper(teste[j]);
+        for (int k = 0; k < C; k++)
+        {
+            if (teste[j].ToString().ToLower() == cifrado[k].ToString().ToLower())
+            {
+                cod = true;
+                ind = k;
+            }
+
+            if (teste[j].ToString().ToLower() == cifra[k].ToString().ToLower())
+            {
+                cif = true;
+                ind = k;
+            }
+        }
+        if (!cod && !cif)
+        {
+            if (eMaiuscula)
+                Console.Write(teste[j].ToString().ToUpper());
+            else
+                Console.Write(teste[j].ToString().ToLower());
+        }
+        else if(cod) {
+            if (eMaiuscula)
+                Console.Write(cifra[ind].ToString().ToUpper());
+            else
+                Console.Write(cifra[ind].ToString().ToLower());
+        }
+        else
+        {
+            if (eMaiuscula)
+                Console.Write(cifrado[ind].ToString().ToUpper());
+            else
+                Console.Write(cifrado[ind].ToString().ToLower());
+        }
+    }
+    if(i < N - 1)
+    Console.WriteLine();
+}
+*/
+
+
+/*
+using System.Collections.Immutable;
+using System.Globalization;
+
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//PRIMEIRA FASE
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            // cod 2381 Lista de Chamada
+            string[] input = Console.ReadLine().Split();
+            int N = int.Parse(input[0]);
+            int K = int.Parse(input[1]);
+            string[] nome = new string[N];
+
+            for (int i = 0; i < N; i++) { 
+                nome[i] = Console.ReadLine();
+            }
+
+            Array.Sort(nome);
+            Console.WriteLine(nome[K - 1]);
+        }
+    }
+}
+*/
+
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        string[] input = Console.ReadLine().Split();
+        int X = int.Parse(input[0]);
+        int Y = int.Parse(input[1]);
+        int[,] matriz = new int[X, Y];
+        for (int i = 0; i < X; i++)
+        {
+            string[] input2 = Console.ReadLine().Split();
+            for (int j = 0; j < Y; j++)
+            {
+                matriz[i, j] = int.Parse(input2[j]);
+            }
+        }
+
+        int cordx = 0, cordy = 0;
+        for (int k = 1; k < X - 1; k++)
+        {
+            for (int l = 1; l < Y - 1; l++)
+            {
+                if (matriz[k, l] == 42)
+                {
+                    if (matriz[k, l - 1] == 7 && matriz[k, l + 1] == 7 && matriz[k - 1, l] == 7 && matriz[k + 1, l] == 7 && matriz[k - 1, l - 1] == 7 && matriz[k - 1, l + 1] == 7 && matriz[k + 1, l - 1] == 7 && matriz[k + 1, l + 1] == 7)
+                    {
+                        cordx = k + 1;
+                        cordy = l + 1;
+                    }
+                }
+            }
+        }
+        Console.WriteLine(cordx + " " + cordy);
+    }
+}
+*/
+
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        string [] input = Console.ReadLine().Split();
+        int N = int.Parse(input[0]);
+        int M = int.Parse(input[1]);
+        int jog = 0, teste = 0;
+        for(int i = 0; i < N; i++){
+            string [] input2 = Console.ReadLine().Split();
+            for(int j = 0; j < M; j++){
+                if(input2[j] != "0"){
+                    teste++;
+                }
+            }
+            if(teste == M){
+                jog++;
+            }
+        }
+        Console.WriteLine(jog);
+    }
+}
+*/
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        string [] input = Console.ReadLine().Split();
+        double hh = double.Parse(input[0]);
+        double mm = double.Parse(input[1]);
+        double horas = hh / 360 * 12;
+        double minutos = mm / 360 * 60;
+        if(horas < 10){
+            Console.Write("0" + horas + ":");
+        } else{
+            Console.Write(horas + ":");
+        }
+        if(minutos < 10){
+            Console.WriteLine("0" + minutos);
+        } else{
+            Console.WriteLine(minutos);
+        }
+    }
+}
+*/
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        int N = int.Parse(Console.ReadLine());
+        string [] input = Console.ReadLine().Split();
+        if(input[1] == "*"){
+            if(int.Parse(input[0]) * int.Parse(input[2]) > N){
+                Console.WriteLine("OVERFLOW");
+            } else{
+                Console.WriteLine("OK");
+            }
+        } else
+        {
+            if(int.Parse(input[0]) + int.Parse(input[2]) > N)
+            {
+                Console.WriteLine("OVERFLOW");
+            } else
+            {
+                Console.WriteLine("OK");
+            }
+        }
+    }
+}
+*/
+
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        int N = 1, M = 1;
+        do{
+            string[] input = Console.ReadLine().Split();
+            N = int.Parse(input[0]);
+            M = int.Parse(input[1]);
+            int resp = N + M;
+            string resposta = resp.ToString();
+            string R = "";
+            for(int i = 0; i < resposta.Length; i++){
+                if(resposta[i] == '0'){
+                    
+                } else{
+                    R += resposta[i];
+                }
+            }
+            Console.WriteLine(R);
+            
+        }while(N != 0 && M != 0);
+    }
+}
+*/
+
+
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        int N = int.Parse(Console.ReadLine());
+        for(int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine(i + " x " + N + " = " + i * N);
+        }
+    }
+}
+*/
+
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025
+        ///////////////////////////BEECROWD//////////////////////////////////////
+        int N = int.Parse(Console.ReadLine());
+        for(int i = 1; i <= N; i++){
+            if(i % 2 == 0){
+                Console.WriteLine(i+ "^" + i +" = " + Math.Pow(i,2) );
+            }
+        }
+    }
+}
+*/
+
+/*
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {//Treino 01/04/2025       ///////////////////////////BEECROWD//////////////////////////////////////
+        string [] input = Console.ReadLine().Split();
+        int resp = int.Parse(input[1]) + 24 - int.Parse(input[0]);
+        if(resp > 24)
+        {
+            resp = resp - 24;
+        }
+        Console.WriteLine($"O JOGO DUROU {resp} HORA(S)");
+    }
+}
+*/
+
+
+/*
+//EXERCICIO STRING FAZER MAIS TARDE
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //cod 1248 Plano de Dieta
+            int N = int.Parse(Console.ReadLine());
+            for (int i = 0; i < N; i++) { 
+                string dieta = Console.ReadLine();
+                string cafe = Console.ReadLine();
+                string jantar = Console.ReadLine();
+                char [] vetor = new char[cafe.Length];
+                int cont = 0;
+                for (int j = 0; j < dieta.Length; j++) {
+                    for (int k = 0; k < cafe.Length; k++) {
+                        if (dieta[j] == cafe[k])
+                        {
+                            vetor[cont] = cafe[k];
+                            cont++;
+                            cafe[k] = null;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {                                    
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //cod 2369 Conta de Água
+            int N = int.Parse(Console.ReadLine());
+            int valor = 7, teste = 0;
+            if (N > 10) { 
+                teste = N - 10;
+                if (teste > 20)
+                {
+                    valor += 20;
+                }
+                else {
+                    valor += teste;
+                }
+            }
+            if (N > 30) {
+                teste = N - 30;
+                if (teste > 70)
+                {
+                    valor += 140;
+                }
+                else
+                {
+                    valor += teste * 2;
+                }
+            }
+            if (N > 100)
+            {
+                teste = N - 100;
+                valor += teste * 5;
+            }
+
+            Console.WriteLine(valor);
+        }
+    }
+}
+*/
+
+/*
+/////////////////////////////////////////////FASE DE TESTES////////////////////////////////////////////////////////
+namespace OlimpiadaProgramacao2025                   
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1014 Consumo
+            int dist = int.Parse(Console.ReadLine());
+            double cons = double.Parse(Console.ReadLine());
+            Console.WriteLine((dist / cons).ToString("F3") + " km/l");
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1013 O Maior  
+            string[] input = Console.ReadLine().Split();
+            int maior1 = (int.Parse(input[0]) + int.Parse(input[1]) + Math.Abs(int.Parse(input[0]) - int.Parse(input[1]))) / 2;
+            int maior2 = (int.Parse(input[2]) + maior1 + Math.Abs(maior1 - (int.Parse(input[2])))) / 2;
+            Console.WriteLine($"{maior2} eh o maior");
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{ 
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///COD 1010 CALCULO SIMPLES
+            string[] input1 = Console.ReadLine().Split();
+            string[] input2 = Console.ReadLine().Split();
+            double resp = double.Parse(input1[1]) * double.Parse(input1[2]) + double.Parse(input2[1]) * double.Parse(input2[2]);
+            Console.WriteLine($"VALOR A PAGAR: R$ {resp.ToString("F2")}");
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1009 salario+bonus
+            string name = Console.ReadLine();
+            double salario = double.Parse(Console.ReadLine());
+            double vendas = double.Parse(Console.ReadLine());
+            Console.WriteLine($"TOTAL = R$ {(salario + vendas * 0.15).ToString("F2")}");
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///COD 1008 SALARIO
+            int num = int.Parse(Console.ReadLine());
+            int horas = int.Parse(Console.ReadLine());
+            double val = double.Parse(Console.ReadLine());
+            Console.WriteLine($"NUMBER = {num}\nSALARY = U$ {(horas*val).ToString("F2")}");
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1007 DIFERENÇA
+            int A = int.Parse(Console.ReadLine());
+            int B = int.Parse(Console.ReadLine());
+            int C = int.Parse(Console.ReadLine());
+            int D = int.Parse(Console.ReadLine());
+            int dif = (A * B - C * D);
+            Console.WriteLine("DIFERENCA = " + dif);
+        }
+    }
+}
+*/
+
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 23/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod 1006 Média 2
+            double A = double.Parse(Console.ReadLine());
+            double B = double.Parse(Console.ReadLine());
+            double C = double.Parse(Console.ReadLine());
+            double soma = A * 2 + B * 3 + C * 5;
+            Console.WriteLine("MEDIA = " + (soma/10).ToString("F1"));
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//TREINOS LIVRES 22/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            ///cod. 1005 Média ponderada
+            double A = double.Parse(Console.ReadLine());
+            double B = double.Parse(Console.ReadLine());
+            Console.WriteLine("MEDIA = " + ((A * 3.5 + B * 7.5)/11).ToString("F5"));
+        }
+    }
+}
+*/
+
+//FAZER MAIS TARDE
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Gravity Boy cod 3310
+            int N = int.Parse(Console.ReadLine());
+            string[] relevoT = Console.ReadLine().Split();
+            string[] relevoC = Console.ReadLine().Split();
+            int test = 1, atual1 = 1, atual2 = 2, count1 = 0, count2 = 0;
+
+
+            for (int i = 0; i < N; i++)
+            {
+                //Teste começando do chão
+                if (atual1 == 1)
+                {
+                    int relevo = int.Parse(relevoC[i]);
+                    if (relevo > test || relevo == 0)
+                    {
+                        count1++;
+                        atual1 = 2;
+                        test = int.Parse(relevoC[i]);
+                    }
+                }
+                else
+                {
+                    int relevo = int.Parse(relevoT[i]);
+                    if (relevo > test)
+                    {
+                        count1++;
+                        atual1 = 1;
+                        test = int.Parse(relevoC[i]);
+                    }
+                }
+            }
+
+
+            for(int j = 0; j < N; j++) 
+            {
+                //Fazendo teste começar do teto
+                if (atual2 == 2)
+                {
+                    int relevo = int.Parse(relevoT[j]);
+                    if (relevo > test || relevo == 0)
+                    {
+                        count2++;
+                        atual2 = 1;
+                        test = int.Parse(relevoT[j]);
+                    }
+                }
+                else
+                {
+                    int relevo = int.Parse(relevoT[j]);
+                    if (relevo > test)
+                    {
+                        count2++;
+                        atual2 = 2;
+                        test = int.Parse(relevoC[j]);
+                    }
+                }
+            }
+
+            //Mostrando a menor opção
+            if(count1 < count2)
+            {
+                Console.WriteLine(count1);
+            }
+            else
+            {
+                Console.WriteLine(count2);
+            }
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Led cod 1168
+            int quant = int.Parse(Console.ReadLine());
+            for(int i = 0; i < quant; i++)
+            {
+                string numero = Console.ReadLine();
+                int leds = 0;
+                foreach(char p in numero)
+                {
+                    int test = (int)p - 48;
+                    if(test == 2 || test == 3 || test == 5)
+                    {
+                        leds += 5;
+                    } else if (test == 1)
+                    {
+                        leds += 2;
+                    } else if (test == 4)
+                    {
+                        leds += 4;
+                    }  else if (test == 7)
+                    {
+                        leds += 3;
+                    }
+                    else if (test == 8)
+                    {
+                        leds += 7;
+                    } else if (test == 6 || test == 9 || test == 0)
+                    {
+                        leds += 6;
+                    }
+                }
+                Console.WriteLine(leds + " leds");
+            }
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Pneu cod 2374
+            int pBomba = int.Parse(Console.ReadLine());
+            int pPneu = int.Parse(Console.ReadLine());
+            Console.WriteLine(pBomba-pPneu);
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Busca na Internet cod 2413
+            int num = int.Parse(Console.ReadLine());
+            Console.WriteLine(num*4);
+        }
+    }
+}
+*/
+
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Identificando o chá cod 2006
+            int T = int.Parse(Console.ReadLine());
+            string[] resp = Console.ReadLine().Split();
+            int count = 0;
+            for ( int i = 0; i < 5; i++)
+            {
+                int test = int.Parse(resp[i]);
+                if (test == T)
+                {
+                    count++;
+                }
+            }
+            Console.WriteLine(count);
+        }
+    }
+}
+*/
+/*
+namespace OlimpiadaProgramacao2025
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {//Treino 01/04/2025
+            ///////////////////////////BEECROWD//////////////////////////////////////
+            //Tomadas cod 1930
+            string[] input = Console.ReadLine().Split();
+            int t1 = int.Parse(input[0]);
+            int t2 = int.Parse(input[1]);
+            int t3 = int.Parse(input[2]);
+            int t4 = int.Parse(input[3]);
+            double resultado = t1 + t2 + t3 + t4 - 3;
+            Console.WriteLine(resultado);
+        }
+    }
+}
+*/
