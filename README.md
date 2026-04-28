@@ -13,9 +13,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-fa-montalvao" target="blank">
-  <img align="center" src="www.linkedin.com/in/gabriel-fa-montalvao" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-f-a-montalvao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-f-a-montalvao" height="30" width="40" /></a>
 </p>
 
 <div style="display: inline_block"><br>
