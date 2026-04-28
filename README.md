@@ -18,6 +18,7 @@
 </a>
 </p>
 
+<div style="display: inline_block"><br>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -61,6 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
   </p>
+  </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabdevwork&show_icons=true&locale=en&layout=compact" alt="gabdevwork" /></p>
 
