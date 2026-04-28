@@ -13,8 +13,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-fa-montalvao" target="blank"><img align="center" <a href="https://www.topcoder.com/members/30620-162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-fa-montalvao" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/30620-162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="30620-162" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-fa-montalvao" target="blank">
+  <img align="center" src="www.linkedin.com/in/gabriel-fa-montalvao" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
