@@ -19,78 +19,137 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block"><br>
 <p align="left">
-  <table>
-  <tr>
+    <table>
+      <tr>
     
-  <td>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-  </td>
-
-  <td>
-        <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-        </a> 
-  </td>
-
-<td>
-  
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a> 
-  
-</td>
-
-<td>
-
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-  
-</td>
-
-<td>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  
-  
-</td>
-
-
-    
-  </tr>
-
-
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-      </a> 
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-      </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-      </a> 
-      <a href="https://developer.mozilla.<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-      </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" width="40" height="40">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    
-  </table>
-  </p>
+            <td>
+                <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+              </a> 
+            </td>
+          
+            <td>
+                  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+                  </a> 
+            </td>
+          
+          <td>
+            
+            <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+              <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+            </a> 
+            
+          </td>
+          
+          <td>
+          
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+            </a> 
+            
+          </td>
+          
+          <td>
+          
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            </a>
+            
+            
+          </td>
+          
+          <td>
+          
+                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+                </a> 
+                
+          </td>
+          
+          <td>
+            
+                <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+                </a>
+            
+          </td>
+          
+          <td>
+          
+                <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+                </a> 
+            
+          </td>
+          
+          <td>
+          
+                <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+                </a> 
+          
+            
+          </td>
+          
+          <td>
+          
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+                </a> 
+          
+            
+          </td>
+          
+          <td>
+          
+                <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+                </a> 
+            
+          </td>
+          
+          <td>
+          
+                <a href="https://developer.mozilla.<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+                  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+                </a> 
+          
+            
+          </td>
+          
+          
+          <td>
+          
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+            </a> 
+          
+            
+          </td>
+          
+          
+          <td>
+          
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+              <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+            </a>
+          
+            
+          </td>
+          
+          
+          <td>
+          
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" width="40" height="40">    
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+            </a>
+          
+            
+          </td>    
+        </tr>
+      </table>
+    </p>
   </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabdevwork&show_icons=true&locale=en&layout=compact" alt="gabdevwork" /></p>
