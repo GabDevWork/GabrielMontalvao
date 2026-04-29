@@ -17,38 +17,43 @@
 </p>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"><br>Power BI</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br>Python</td>
-    <td align="center" width="120"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"><br>SQL Server</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"><br>MySQL</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br>AWS</td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"><br>Azure</td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"><br>GCP</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"><br>Docker</td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"><br>Kubernetes</td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br>Java</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"><br>C#</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"><br>MongoDB</td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br>Figma</td>
-  </tr>
-</table>
+<div align="middle">
+
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"><br>Power BI</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br>Python</td>
+      <td align="center" width="120"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"><br>SQL Server</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"><br>MySQL</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br>AWS</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"><br>Azure</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"><br>GCP</td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"><br>Docker</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"><br>Kubernetes</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br>Java</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"><br>C#</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"><br>MongoDB</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br>Figma</td>
+    </tr>
+  </table>
+  
+</div>
+
 
 <br>
 
-<div align="left">
+<div align="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&show_icons=true&locale=en" alt="gabdevwork" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabdevwork&show_icons=true&locale=en&layout=compact" alt="gabdevwork" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&show_icons=true&locale=en" alt="gabdevwork" />
 </div>
 
 <br>
 
-<div align="left"> 
+<div align="middle"> 
   <a href="https://www.instagram.com/gabrielfilipea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
