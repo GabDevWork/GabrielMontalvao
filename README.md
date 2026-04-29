@@ -18,7 +18,6 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block"><br>
-<p align="left">
     <table>
       <tr>
     
@@ -33,7 +32,7 @@
                     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
                   </a> 
             </td>
-          
+          </tr><tr>
           <td>
             
             <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
@@ -139,7 +138,6 @@
           </td>    
         </tr>
       </table>
-    </p>
   </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabdevwork&show_icons=true&locale=en&layout=compact" alt="gabdevwork" /></p>
