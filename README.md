@@ -56,7 +56,6 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
             </a>
             
-            
           </td>
           
           <td>
@@ -88,8 +87,7 @@
                 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
                 </a> 
-          
-            
+                
           </td>
           
           <td>
@@ -97,7 +95,6 @@
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
                 </a> 
-          
             
           </td>
           
@@ -115,9 +112,7 @@
                   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
                 </a> 
           
-            
           </td>
-          
           
           <td>
           
@@ -125,9 +120,7 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
             </a> 
           
-            
           </td>
-          
           
           <td>
           
@@ -135,9 +128,7 @@
               <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
             </a>
           
-            
           </td>
-          
           
           <td>
           
@@ -145,7 +136,6 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
             </a>
           
-            
           </td>    
         </tr>
       </table>
