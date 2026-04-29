@@ -1,9 +1,17 @@
 <h1 align="center">Olá 👋, Sou o Gabriel Montalvão</h1>
 <h3 align="center">Sou apaixonado por programação e projetos que fazem a diferença</h3>
 
+<div align="middle">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=dracula&locale=pt-br)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork&locale=pt-br&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+</div>
+
 - 🔭 Atualmente estou trabalhando com visualização de dados no Power Bi e modernização de arquitetura de dados usando Snowpark. **Arquietura ELT Snowpark**
 
-- 🌱 Atualmente estou especializado em **Machine Learning e DataBricks**
+- 🌱 Atualmente estou especializando em **Machine Learning e DataBricks**
 
 - 💬 Me pergunte **Power BI, Excel (VBA) e Python**
 
@@ -11,11 +19,12 @@
 
 - 📄 Siga-me no linkedIn [www.linkedin.com/in/gabriel-fa-montalvao](www.linkedin.com/in/gabriel-fa-montalvao)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-f-a-montalvao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-f-a-montalvao" height="30" width="40" /></a>
+><h3 align="left">Conecte-se comigo:</h3>
+<p align="middle">
+<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-fa-montalvao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-f-a-montalvao" height="40" width="50" /></a>
 </p>
-<h3 align="left">Linguagens e Ferramentas:</h3>
+
+><h3 align="left">Linguagens e Ferramentas:</h3>
 
 <div align="middle">
 
@@ -44,12 +53,6 @@
 
 
 <br>
-
-<div align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&show_icons=true&locale=en" alt="gabdevwork" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabdevwork&show_icons=true&locale=en&layout=compact" alt="gabdevwork" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
 <br>
 
