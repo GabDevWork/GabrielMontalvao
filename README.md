@@ -3,7 +3,7 @@
 
 <div align="middle">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=dracula&locale=pt-br)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=dracula&locale=en)
   &nbsp;&nbsp;&nbsp;&nbsp;
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork\&layout=compact&locale=pt-br)
 
