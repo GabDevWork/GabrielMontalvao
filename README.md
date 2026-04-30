@@ -1,4 +1,7 @@
 <h1 align="center">Olá 👋, Sou o Gabriel Montalvão</h1>
+
+<img src="./Foto_Apresentacao_Gabriel.png" alt="Gabriel Montalvao"/>
+
 <h3 align="center">Sou apaixonado por programação e projetos que fazem a diferença</h3>
 
 <div align="middle">
