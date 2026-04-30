@@ -5,7 +5,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=dracula&locale=pt-br)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork&locale=pt-br&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork\&layout=compact)
 
 </div>
 
